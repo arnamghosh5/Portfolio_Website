@@ -534,7 +534,7 @@ nav {
 
 .sixthsection .lefts {
     width: 40%;
-    color: white;
+    color: blue;
     padding-top: 80px;
     margin-left: 40px;
     font-size: 20px;
@@ -546,7 +546,7 @@ nav {
 }
 
 .sixthsection .rights {
-    color: white;
+    color: blue;
     padding-top: 60px;
     margin-left: 40px;
     font-size: 30px;
