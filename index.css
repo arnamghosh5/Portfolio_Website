@@ -328,6 +328,9 @@ nav {
         margin-left: 10px;
         margin-right: 10px;
     }
+.seventhsection .shop-section h2{
+        color: black;
+}
 
  /* For Mobile Phone Visibility Only*/
 @media only screen and (max-width: 620px) {
