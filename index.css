@@ -74,6 +74,7 @@ nav {
     padding-top: 15px;
 }
 
+
 @media only screen and (max-width: 620px) {
     .Thirdsection .proj .k {
         padding-top: 20px;
@@ -172,12 +173,25 @@ nav {
 .proj .m {
     padding-left: 30px;
     font-size: 20px;
+    line-height: 1.6;
 }
 .proj .il{
     padding-left: 30px;
     font-size: 20px;
+    line-height: 1.6;
 }
-
+.proj .ak{
+    padding-top: 25px;
+    margin: auto;
+    font-size: 30px;
+    color: violet;
+    line-height: 1.6;
+}
+.proj .kl{
+    padding-left: 30px;
+    font-size: 20px;
+    line-height: 1.6;
+}
 .bar {
     font-size: 20px;
     padding-left: 260px;
