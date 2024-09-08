@@ -125,21 +125,24 @@ nav {
 
 .proj .t {
     margin: auto;
-    font-size: 20px;
+    font-size: 25px;
     padding: auto;
     color: violet;
+    line-height: 1.6;
 }
 
 .proj .k {
     padding-left: 30px;
     font-size: 20px;
+    line-height: 1.6;
 }
 
 .proj .ar{
-    font-size: 30px;
+    font-size: 25px;
     color: violet;
     padding-left: 20px;
     padding-top: 20px;
+    line-height: 1.6;
 }
 .proj {
     margin-left: 140px;
@@ -172,7 +175,7 @@ nav {
 .proj .l {
     padding-top: 20px;
     margin: auto;
-    font-size: 20px;
+    font-size: 25px;
     color: violet;
 }
 
@@ -189,7 +192,7 @@ nav {
 .proj .ak{
     padding-top: 25px;
     margin: auto;
-    font-size: 30px;
+    font-size: 25px;
     color: violet;
     line-height: 1.6;
 }
