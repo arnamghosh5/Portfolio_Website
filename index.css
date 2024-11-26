@@ -75,7 +75,7 @@ nav {
 }
 
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 1280px) {
     .Thirdsection .proj .k {
         padding-top: 20px;
         font-size: 18px;
@@ -361,7 +361,7 @@ nav {
 }
 
  /* For Mobile Phone Visibility Only*/
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 1280px) {
     nav {
         max-width: 620px;
         background-color: blue;
@@ -412,7 +412,7 @@ nav {
 
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 1280px) {
     .leftse img {
         margin: auto;
         padding-top: auto;
@@ -443,7 +443,7 @@ nav {
 }
 
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 1280px) {
     .Fourthsection {
         display: flex;
         justify-content: space-around;
@@ -477,7 +477,7 @@ nav {
     }
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 1280px) {
 
     .Fifthsection,
     h4 {
@@ -583,7 +583,7 @@ nav {
     font-size: 30px;
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 1280px) {
     .lefts{
         font-size: 90px;
         text-align: center;
@@ -630,7 +630,7 @@ nav {
     }
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 1280px) {
 
     .firstsection,
     .secondsection,
@@ -644,7 +644,7 @@ nav {
     }
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 1280px) {
     .seventhsection .shop-section{
         display: flex;
         flex-direction: column;
